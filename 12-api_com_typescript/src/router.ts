@@ -1,5 +1,10 @@
 import { Router, Request, Response } from "express";
-import { createMovie, findMovieById, getAllMovies, removeMovie, updateMovie } from "./controllers/movieController";
+import { 
+	createMovie, 
+	findMovieById, 
+	getAllMovies, 
+	removeMovie, 
+	updateMovie } from "./controllers/movieController";
 
 // validations
 import { validate  } from "./middlewares/handleValidator";
