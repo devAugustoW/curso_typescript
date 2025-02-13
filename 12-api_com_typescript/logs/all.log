@@ -937,3 +937,19 @@ undefined = [32minfo[39m: [32mServidor rodando na porta 3333[39m
 2025-02-13 12:44:28:4428 = [32minfo[39m: [32mServidor rodando na porta 3333[39m
 2025-02-13 12:45:57:4557 = [32minfo[39m: [32mConectou ao Banco de Dados![39m
 2025-02-13 12:45:57:4557 = [32minfo[39m: [32mServidor rodando na porta 3333[39m
+2025-02-13 12:46:01:461 = [32minfo[39m: [32mConectou ao Banco de Dados![39m
+2025-02-13 12:46:01:461 = [32minfo[39m: [32mServidor rodando na porta 3333[39m
+2025-02-13 12:47:26:4726 = [35mhttp[39m: [35mPOST /api/movie 201 - - response-time ms[39m
+[35m[39m
+2025-02-13 12:47:37:4737 = [35mhttp[39m: [35mGET /api/movie/67ae140e289cfee944e03e4e 200 - - response-time ms[39m
+[35m[39m
+2025-02-13 12:47:41:4741 = [35mhttp[39m: [35mGET /api/movies/ 200 - - response-time ms[39m
+[35m[39m
+2025-02-13 12:47:52:4752 = [35mhttp[39m: [35mDELETE /api/movie/67ae140e289cfee944e03e4e 200 - - response-time ms[39m
+[35m[39m
+2025-02-13 12:48:03:483 = [35mhttp[39m: [35mPATCH /api/movie/67ae140e289cfee944e03e4e 400 - - response-time ms[39m
+[35m[39m
+2025-02-13 12:48:16:4816 = [35mhttp[39m: [35mPATCH /api/movie/67acf12531e53683982d7a59 200 - - response-time ms[39m
+[35m[39m
+2025-02-13 12:53:29:5329 = [32minfo[39m: [32mConectou ao Banco de Dados![39m
+2025-02-13 12:53:29:5329 = [32minfo[39m: [32mServidor rodando na porta 3333[39m
