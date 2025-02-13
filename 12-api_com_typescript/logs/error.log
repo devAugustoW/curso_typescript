@@ -1,0 +1,16 @@
+2025-02-12 16:26:36:2636 = [31merror[39m: [31mErro no sistema: undefined[39m
+2025-02-12 16:26:58:2658 = [31merror[39m: [31mErro no sistema: undefined[39m
+2025-02-12 16:31:00:310 = [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67acf4964246c08dbf00c21" (type string) at path "_id" for model "movie"[39m
+2025-02-12 16:31:19:3119 = [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67acf4964246c08dbf00c21" (type string) at path "_id" for model "movie"[39m
+2025-02-12 16:32:39:3239 = [31merror[39m: [31mErro no sistema: undefined[39m
+2025-02-12 16:33:10:3310 = [31merror[39m: [31mErro no sistema: undefined[39m
+2025-02-12 16:33:18:3318 = [31merror[39m: [31mErro no sistema: undefined[39m
+2025-02-13 11:03:41:341 = [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2025-02-13 11:05:49:549 = [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2025-02-13 11:11:41:1141 = [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67ace58cc33a68fe47462d3" (type string) at path "_id" for model "movie"[39m
+2025-02-13 11:12:15:1215 = [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67ace58cc33a68fe47462d3" (type string) at path "_id" for model "movie"[39m
+2025-02-13 11:12:23:1223 = [31merror[39m: [31mErro no sistema: movie.delete is not a function[39m
+2025-02-13 11:12:28:1228 = [31merror[39m: [31mErro no sistema: movie.delete is not a function[39m
+2025-02-13 11:12:39:1239 = [31merror[39m: [31mErro no sistema: movie.delete is not a function[39m
+2025-02-13 11:14:53:1453 = [31merror[39m: [31mErro no sistema: movie.remove is not a function[39m
+2025-02-13 11:16:19:1619 = [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67ace58cc33a68fe47462d3" (type string) at path "_id" for model "movie"[39m
